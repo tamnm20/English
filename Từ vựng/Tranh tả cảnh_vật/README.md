@@ -54,3 +54,8 @@
 | Shelf/Shelves| /ʃɛlf/ /ʃɛlvz/   | Kệ sách, giá (số ít/số nhiều) |
 | Food         | /fuːd/           | Thực phẩm, đồ ăn   |
 | Dish         | /dɪʃ/            | Món ăn, đĩa ăn     |
+
+### Từ vựng cây cối và các dụng cụ, thiết bị
+
+
+
