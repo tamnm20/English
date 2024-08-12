@@ -57,21 +57,5 @@
 
 ### Từ vựng cây cối và các dụng cụ, thiết bị
 
-| Từ       | Phát âm       | Ý nghĩa           |
-|----------|---------------|-------------------|
-| Plant    | /plænt/       | Cây trồng         |
-| Flower   | /ˈflaʊər/     | Hoa               |
-| Fruit    | /fruːt/       | Trái cây          |
-| Grass    | /ɡræs/        | Cỏ                |
-| Crop     | /krɑːp/       | Cây trồng, vụ mùa |
-| Vase     | /veɪs/        | Bình hoa          |
-| Ladder   | /ˈlædər/      | Thang             |
-| Hammer   | /ˈhæmər/      | Búa               |
-| Nail     | /neɪl/        | Đinh              |
-| Cord     | /kɔːrd/       | Dây, dây thừng    |
-| Tool     | /tuːl/        | Dụng cụ           |
-| Machine  | /məˈʃiːn/     | Máy móc           |
-
-
 
 
