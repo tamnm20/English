@@ -1,61 +1,34 @@
 # Vocabulary
 
-## Tranh tả cảnh/vật
+## Quá khứ phân từ
 
-### Từ vựng chỉ phương tiện giao thông
+### Part 1
 
-
-| Từ             | Phát âm                 | Ý nghĩa                                |
-|-----------------|-------------------------|----------------------------------------|
-| Motorbike       | /ˈmoʊtərˌbaɪk/         | Xe máy                                 |
-| Car             | /kɑːr/                  | Ô tô                                   |
-| Bus             | /bʌs/                   | Xe buýt                                |
-| Bicycle         | /ˈbaɪsɪkl/              | Xe đạp                                 |
-| Train           | /treɪn/                 | Tàu hỏa                                |
-| Airplane/Plane  | /ˈɛərˌpleɪn/            | Máy bay                                |
-| Boat            | /boʊt/                  | Thuyền                                 |
-| Ship            | /ʃɪp/                   | Tàu lớn                                |
-| Vehicle         | /ˈviːɪkl/               | Phương tiện                            |
-| Transportation  | /ˌtrænspɔːrˈteɪʃən/     | Giao thông, vận chuyển                 |
-| Pickup Truck    | /ˈpɪkʌp trʌk/           | Xe bán tải                             |
-| Coach           | /koʊtʃ/                 | Xe khách (xe buýt cao cấp)             |
-| Passenger Bus   | /ˈpæsɪndʒər bʌs/        | Xe khách (xe buýt chở hành khách)      |
-| Cybertruck      | /ˈsaɪbərtrʌk/           | Xe tải điện Tesla Cybertruck           |
+| Từ          | Phát âm        | Ý nghĩa              |
+|-------------|----------------|----------------------|
+| Parked      | /pɑːrkt/       | Đậu (xe), đỗ         |
+| Arranged    | /əˈreɪndʒd/    | Sắp xếp              |
+| Placed      | /pleɪst/       | Đặt, để              |
+| Unoccupied  | /ʌnˈɒkjʊpaɪd/  | Không có người, bỏ trống |
+| Hung        | /hʌŋ/          | Treo                 |
+| Displayed   | /dɪˈspleɪd/    | Trưng bày            |
+| Stacked     | /stækt/        | Xếp chồng, chất đống |
+| Attached    | /əˈtætʃt/      | Đính kèm, gắn        |
+| Connected   | /kəˈnɛktɪd/    | Kết nối              |
+| Piled Up    | /paɪld ʌp/     | Chất đống, xếp chồng |
 
 
-### Từ vựng nội thất và dụng cụ văn phòng
+### Part 2
 
-
-| Từ            | Phát âm          | Ý nghĩa                      |
-|---------------|------------------|------------------------------|
-| Drawer        | /drɔːr/          | Ngăn kéo                     |
-| Cabinet       | /ˈkæbɪnɪt/       | Tủ (có ngăn kéo hoặc cửa)    |
-| Ceiling Light | /ˈsiːlɪŋ laɪt/   | Đèn trần                     |
-| Table Lamp    | /ˈteɪbl læmp/    | Đèn bàn                      |
-| Desk          | /desk/           | Bàn làm việc                 |
-| Sofa          | /ˈsoʊfə/         | Ghế sofa                     |
-| Furniture     | /ˈfɜːrnɪtʃər/    | Đồ nội thất                  |
-| Facility      | /fəˈsɪləti/      | Cơ sở vật chất, tiện nghi    |
-
-
-### Từ vựng hàng hóa và đồ chứa
-
-| Từ           | Phát âm          | Ý nghĩa            |
-|--------------|------------------|--------------------|
-| Merchandise  | /ˈmɜːrtʃəndaɪz/  | Hàng hóa           |
-| Container    | /kənˈteɪnər/     | Thùng chứa, hộp đựng|
-| Clothes      | /kloʊðz/         | Quần áo            |
-| Rack         | /ræk/            | Giá, kệ             |
-| Fruit        | /fruːt/          | Trái cây           |
-| Basket       | /ˈbæskɪt/        | Rổ, giỏ            |
-| Toy          | /tɔɪ/            | Đồ chơi            |
-| Box          | /bɒks/           | Hộp                |
-| Book         | /bʊk/            | Sách               |
-| Shelf/Shelves| /ʃɛlf/ /ʃɛlvz/   | Kệ sách, giá (số ít/số nhiều) |
-| Food         | /fuːd/           | Thực phẩm, đồ ăn   |
-| Dish         | /dɪʃ/            | Món ăn, đĩa ăn     |
-
-### Từ vựng cây cối và các dụng cụ, thiết bị
-
-
-
+| Từ           | Phát âm        | Ý nghĩa              |
+|--------------|----------------|----------------------|
+| Posted       | /ˈpoʊstɪd/     | Đã đăng, dán lên     |
+| Organized    | /ˈɔːrɡəˌnaɪzd/ | Đã sắp xếp, tổ chức  |
+| Set          | /sɛt/          | Đặt, bố trí          |
+| Situated     | /ˈsɪtʃuˌeɪtɪd/ | Nằm ở, đặt tại       |
+| Taken Down   | /ˈteɪkən daʊn/ | Hạ xuống, tháo xuống |
+| Turned On    | /tɜːrnd ɒn/    | Bật lên              |
+| Laid Out     | /leɪd aʊt/     | Bày ra, bố trí       |
+| Filled With  | /fɪld wɪð/     | Đầy với, chứa đầy    |
+| Covered With | /ˈkʌvərd wɪð/  | Phủ kín bởi          |
+| Surrounded   | /səˈraʊndɪd/   | Bao quanh            |

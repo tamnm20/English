@@ -2,20 +2,13 @@
 
 ## Cấu trúc thường gặp
 
-| Cấu trúc      | Phát âm     | Ý nghĩa           |
-|----------|-------------|-------------------|
-| look forward to      | /iːt/       | Mong đợi, mong chờ             |
-| take a break     | /weɪt/      | Nghỉ ngơi 1 lát   |
-| be kind to    | /wɜːrk/     | Tốt bụng với         |
-| Wear     | /weər/      | Mặc, đeo          |
-| Use      | /juːz/      | Sử dụng           |
-| Play     | /pleɪ/      | Chơi              |
-| Enter    | /ˈentər/    | Đi vào            |
-| Lean     | /liːn/      | Nghiêng, dựa vào  |
-| Lie      | /laɪ/       | Nằm               |
-| Sleep    | /sliːp/     | Ngủ               |
-| Speak    | /spiːk/     | Nói               |
-| Smile    | /smaɪl/     | Cười mỉm          |
-| Kiss     | /kɪs/       | Hôn               |
-| Swim     | /swɪm/      | Bơi               |
-| Listen   | /ˈlɪsən/    | Nghe              |
+look forward to
+take a break
+be kind to
+Leave for the trip
+tax return
+track progress
+
+Trật từ tính từ: O (opinion) - S (size) - A (age) - S (shape) - C (color) - O (origin) - M (material) - P (purpose)
+
+Khi miêu tả đặc điểm, tính chất của một việc gì đó, ta có cấu trúc “It + to be + adj + to V” (làm gì đó thì như thế nào)
