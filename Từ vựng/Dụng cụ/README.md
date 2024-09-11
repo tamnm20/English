@@ -2,23 +2,16 @@
 
 ## Dụng cụ
 
-| Từ       | Phát âm       | Ý nghĩa         |
-|----------|---------------|-----------------|
-| Ladder   | /ˈlædər/      | Thang             |
-| Hammer   | /ˈhæmər/      | Búa               |
-| Cord     | /kɔːrd/       | Dây, dây thừng    |
-| Vase     | /veɪs/        | Bình hoa          |
-| Nail     | /neɪl/        | Đinh              |
-power outlet
-socket
-plug
-
-73728	0					12000
-
-4608 0
-
-288 0
-
-18 2
-
-1	
+| Từ/Cụm từ     | Từ loại | Phát âm         | Ý nghĩa           |
+|---------------|---------|-----------------|-------------------|
+| Ladder        | N       | /ˈlædər/        | Thang             |
+| Hammer        | N       | /ˈhæmər/        | Búa               |
+| Cord          | N       | /kɔːrd/         | Dây (điện)        |
+| Vase          | N       | /veɪs/ or /vɑːz/| Lọ hoa            |
+| Nail          | N       | /neɪl/          | Đinh              |
+| Socket        | N       | /ˈsɑːkɪt/       | Ổ cắm điện        |
+| Plug          | N       | /plʌɡ/          | Phích cắm         |
+| Screwdriver   | N       | /ˈskruːˌdraɪvər/| Tua vít           |
+| Pliers        | N       | /ˈplaɪərz/      | Kìm               |
+| Saw           | N       | /sɔː/           | Cưa               |
+| Drill         | N       | /drɪl/          | Khoan             |
